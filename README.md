@@ -1,9 +1,7 @@
-# Zomato restaurant Data Analysis
+# Banglore Houseing Price Prediction
 ## Case study
 
-![Project Image](project-image-url)
-
-> This is a Case study to see zomato's effort.
+> This is a Case study to see How linear regression works.
 
 ---
 
@@ -11,7 +9,7 @@
 You're sections headers will be used to reference location of destination.
 
 - [Description](#description)
-- [How To Use](#how-to-use)
+- [ML- Algo](#Regression technique)
 - [References](#references)
 - [Author Info](#author-info)
 
@@ -31,11 +29,16 @@ Creating ReadMe's for your Github repository can be tedious.  I hope this templa
 
 ---
 
-## How To Use
+## Regression technique
+Linear regression attempts to model the relationship between two variables by fitting a linear equation to observed data.
+A linear regression line has an equation of the form Y = a + bX, where X is the explanatory variable and Y is the dependent variable. 
+The slope of the line is b, and a is the intercept (the value of y when x = 0).
 
 ---
 
 ## References
+-Kaggle -- Banglore Housing Dataset-[Dataset-Link](https://www.kaggle.com/amitabhajoy/bengaluru-house-price-data)
+
 [Back To The Top](#read-me-template)
 
 ---
@@ -44,6 +47,6 @@ Creating ReadMe's for your Github repository can be tedious.  I hope this templa
 ## Author Info
 
 - Linkedin - [anant--dashpute](https://www.linkedin.com/in/anant--dashpute/)
-
+- Kaggle - [Anant](https://www.kaggle.com/anantdashpute)
 
 [Back To The Top](#read-me-template)
