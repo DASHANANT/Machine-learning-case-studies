@@ -4,12 +4,12 @@
 
 ### Table of Contents
 
-- Housing Price Project
+- House Price Project
 - Blood Donation Analysis
-- Titanic
+- Titanic - Machine Learning from Disaster
 - Credit card froud 
 - Email Spam Classification
-
+- NBA- Winning Prediction
 
 #### Technologies
 
