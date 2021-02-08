@@ -6,10 +6,10 @@
 
 - House Price Project
 - Blood Donation Analysis
-- Titanic - Machine Learning from Disaster
+- Breast Cancer Diagnosis
 - Credit card froud 
 - Email Spam Classification
-- NBA- Winning Prediction
+- NBA- Victory Prediction
 
 #### Technologies
 
