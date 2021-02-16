@@ -5,10 +5,8 @@
 ### Table of Contents
 
 - House Price Project
-- Blood Donation Analysis
+- India liver disease Analysis
 - Breast Cancer Diagnosis
-- Credit card froud 
-- Email Spam Classification
 - NBA- Victory Prediction
 
 #### Technologies
