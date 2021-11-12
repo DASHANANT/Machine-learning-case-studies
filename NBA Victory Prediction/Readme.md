@@ -1,4 +1,4 @@
-Golden state warriors
+# Golden state warriors
 
 A basketball team from oklohoma , we created a dataset for one star player named stephen curry. we took all the entries from 2014-2018 games from 
 EA sports site
